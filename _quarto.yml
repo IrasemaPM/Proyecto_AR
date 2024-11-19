@@ -1,10 +1,10 @@
 project:
   type: book
-
+lang: es
 book:
-  title: "Proyecto_AR"
-  author: "Norah Jones"
-  date: "19/11/2024"
+  title: "El valor optimo del indice de comportamiento"
+  author: "Irasema Pedroza Meza"
+  date: "08/12/2024"
   chapters:
     - index.qmd
     - intro.qmd
