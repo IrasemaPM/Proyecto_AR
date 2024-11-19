@@ -1,6 +1,5 @@
 project:
   type: book
-  latex-engine: xelatex
 lang: es
 book:
   title: "El valor optimo del indice de comportamiento"
@@ -20,6 +19,7 @@ format:
     theme: cosmo
   pdf:
     documentclass: scrreprt
+    latex-engine: xelatex
 
 editor: visual
 
