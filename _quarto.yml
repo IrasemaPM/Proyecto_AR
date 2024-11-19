@@ -18,7 +18,7 @@ format:
   html:
     theme: cosmo
   pdf:
-    documentclass: article
+    documentclass: scrreprt
     latex-engine: xelatex
 
 editor: visual
