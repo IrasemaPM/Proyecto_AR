@@ -5,7 +5,8 @@
 %
 \documentclass[
   letterpaper,
-]{article}
+  DIV=11,
+  numbers=noendperiod]{scrreprt}
 
 \usepackage{amsmath,amssymb}
 \usepackage{iftex}
@@ -164,6 +165,7 @@
 \newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{\strut#1\strut}}
 \newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
 
+\KOMAoption{captions}{tableheading}
 \makeatletter
 \@ifpackageloaded{bookmark}{}{\usepackage{bookmark}}
 \makeatother

@@ -2,9 +2,15 @@
 
 Los estados de nuestro proceso de decisión de Markov representarán la proporción de la población en cada categoría del modelo propuesto por XXX:
 
-\item
+-   $S_{t}$: Fracción de susceptibles en el tiempo $t$.
 
-$S_{t}$: Fracción de susceptibles en el tiempo$t$. $V_{+t}$: Fracción de vacunados inmunes en el tiempo$t$. $V_{-t}$: Fracción de vacunados no inmunes en el tiempo$t$. $I_{t}$: Fracción de infectados en el tiempo$t$. $R_{t}$: Fracción de recuperados en el tiempo$t$.
+-   $V_{+t}$: Fracción de vacunados inmunes en el tiempo $t$.
+
+-   $V_{-t}$: Fracción de vacunados no inmunes en el tiempo$t$.
+
+-   $I_{t}$: Fracción de infectados en el tiempo $t$.
+
+-   $R_{t}$: Fracción de recuperados en el tiempo $t$.
 
 El estado global del sistema en el tiempo $t$ se presenta como
 
